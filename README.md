@@ -2,8 +2,11 @@
 ## Marypks
 Aprendiendo a manejar esto jeje 
 *Estoy tratando de entenderle a esto y no rendirme pronto*
-Sorry por quien esté leyendo esto
+
+**Sorry por quien esté leyendo esto**
 <ul>
   <li> Promento ponerme a practicar <li>
   </ol>
  
+*Si se puede!! Si se puede!!*
+
